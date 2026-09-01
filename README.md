@@ -36,7 +36,7 @@
 
 ```typescript
 const suhaib = {
-  🎓 education  : "BSc Computer Science @ University of Okara (Final Year)",
+  🎓 education  : "BSc Computer Science @ University of Okara ",
   💼 role       : "Full Stack Developer",
   🌍 location   : "Okara, Punjab, Pakistan",
   ☁️ learning   : ["AWS", "Serverless Architectures", "Cloud-Native Apps"],
